@@ -43,6 +43,10 @@ I am most productive when others depend on me and I depend on others.
 * I love the terminal
 * My IDE is PyCharm
 * My most used Python packages are NumPy, SciPy, Xarray, AstroPy
+* I have contributed to a few open source projects:
+  * the linux kernel (a very small commit)
+  * Xarray (think Pandas, but n-dimensional)
+  * django-taggit
 
 ## Further Reading
 
