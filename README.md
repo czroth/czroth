@@ -1,8 +1,10 @@
 ### Hi, I'm Chris Roth, a Senior Data Scientist at [Preteckt](https://www.preteckt.com).
 
-I'm currently onboarding with the Data Science team at Preteckt, alternating between learning material that is new to me (which can feel like driking from a fire hydrant), and meeting the friendly people I'll be working with.
+I use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. My work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. I collaborate with Preteckt's team of data scientists, engineers, and diesel technicians to provide Vehicle Prognostics as a Service.
 
-I've spent most of my career as a Data Scientist and Researcher, working on the [OSIRIS](https://research-groups.usask.ca/osiris) satellite mission at the University of Saskatchewan.
+My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument.
+
+My work has been published in peer-reviewed journals and has been used to inform global policy decisions on climate.
 
 This page is intended to help others get an [idea](#about-me) of who I am, especially those who haven't worked with me before. If that's why you are here, I look forward to [working](#working-together) with you.
 
@@ -38,13 +40,13 @@ I am most productive when others depend on me and I depend on others.
 
 ## For Fellow Nerds
 
-* My linux journey has been Ubuntu (2012), to Arch (2017), currently Manjaro (2019)
+* My linux journey has been Ubuntu (2012), to Arch (2017), currently Manjaro (2019-present)
 * I use a blue switch mechanical keyboard
 * I love the terminal
 * My IDE is PyCharm
 * My most used Python packages are NumPy, SciPy, Xarray, AstroPy
 * I have contributed to a few open source projects:
-  * the linux kernel (a very small commit)
+  * the linux kernel (a very small but useful commit)
   * Xarray (think Pandas, but n-dimensional)
   * django-taggit
 
