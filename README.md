@@ -1,6 +1,7 @@
 ### Hi, I'm Chris Roth, a Senior Data Scientist at [Preteckt](https://www.preteckt.com).
 
 I use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. My work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. I collaborate with Preteckt's team of data scientists, engineers, and diesel technicians to provide Vehicle Prognostics as a Service.
+I'm currently working on projects relating to estimating fuel usage and engine age.
 
 My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument.
 
@@ -13,7 +14,7 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 * I love learning new things, especially in the fields of physics, mathematics, and programming, but really just about anything.
 If you are passionate about it, I'd love to learn it from you.
 I love teaching others about anything they are interested or motivated to learn about.
-I continued to tutor physics students long after I needed to for the money, mostly for the joy of seeing them do well (but also for the extra Christmas spending cash).
+  * Currently, I'm bing watching https://www.youtube.com/arjancodes
 
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
@@ -33,7 +34,9 @@ Here are a few things to know about me to help us get started working together.
   * How can things be made easier, more efficient, or more robust?
   * Is there anything that could be added to make it better?
 
-* I view work as a **collaborative** process. Through collaboration we can accmomplish more, better.
+* Work is **learning**, learning the new and becoming more efficient at the old.
+
+* I view work as a **collaborative** process. Through collaboration, we can accomplish more, *better.*
 I am most productive when others depend on me and I depend on others.
 
 * I view most work as **in progess,** meaning things are still getting better. Things need not be perfect before they are seen by teammates. I value feedback as helpful as it quickens the quality process. If I offer you feedback, it comes from that desire.
@@ -44,7 +47,7 @@ I am most productive when others depend on me and I depend on others.
 * I use a blue switch mechanical keyboard
 * I love the terminal
 * My IDE is PyCharm
-* My most used Python packages are NumPy, SciPy, Xarray, AstroPy
+* My most used Python packages are Pandas, NumPy, SciPy
 * I have contributed to a few open source projects:
   * the linux kernel (a very small but useful commit)
   * Xarray (think Pandas, but n-dimensional)
