@@ -2,9 +2,7 @@
 
 We use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. Our work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. The Data Science team collaborates with Preteckt's Software Engineering and Diesel Technician teams to provide Vehicle Prognostics as a Service.
 
-My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument.
-
-My work has been published in peer-reviewed journals and has been used to inform global policy decisions on climate.
+My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument. My work has been published in peer-reviewed journals and has been used to inform global policy decisions on climate.
 
 This page is intended to help others get an [idea](#about-me) of who I am, especially those who haven't worked with me before. If that's why you are here, I look forward to [working](#working-together) with you.
 
@@ -13,7 +11,7 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 * I love learning new things, especially in the fields of physics, mathematics, and programming, but really just about anything.
 If you are passionate about it, I'd love to learn it from you.
 I love teaching others about anything they are interested or motivated to learn about.
-  * Currently, I'm bing watching https://www.youtube.com/arjancodes
+  * Currently, I'm taking a [CoRise](https://corise.com/) course on [Dagster.](https://dagster.io/)
 
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
