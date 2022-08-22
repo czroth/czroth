@@ -1,7 +1,6 @@
-### Hi, I'm Chris Roth, a Senior Data Scientist at [Preteckt](https://www.preteckt.com).
+### Hi, I'm Chris Roth, Head of Data Science at [Preteckt](https://www.preteckt.com).
 
-I use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. My work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. I collaborate with Preteckt's team of data scientists, engineers, and diesel technicians to provide Vehicle Prognostics as a Service.
-I'm currently working on projects relating to estimating fuel usage and engine age.
+We use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. Our work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. The Data Science team collaborates with Preteckt's Software Engineering and Diesel Technician teams to provide Vehicle Prognostics as a Service.
 
 My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument.
 
@@ -37,7 +36,7 @@ Here are a few things to know about me to help us get started working together.
 * Work is **learning**, learning the new and becoming more efficient at the old.
 
 * I view work as a **collaborative** process. Through collaboration, we can accomplish more, *better.*
-I am most productive when others depend on me and I depend on others.
+I am most productive when others depend on me and I depend on others. Everyone is winning when we are all performing to our strengths and allowing each other to perform to theirs.
 
 * I view most work as **in progess,** meaning things are still getting better. Things need not be perfect before they are seen by teammates. I value feedback as helpful as it quickens the quality process. If I offer you feedback, it comes from that desire.
 
