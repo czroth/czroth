@@ -41,11 +41,11 @@ I am most productive when others depend on me and I depend on others. Everyone i
 
 ## For Fellow Nerds
 
-* My linux journey has been Ubuntu (2012), to Arch (2017), currently Manjaro (2019-present)
-* I use a blue switch mechanical keyboard
-* I love the terminal
-* My IDE is PyCharm
-* My most used Python packages are Pandas, NumPy, SciPy
+* My linux journey has been Ubuntu (2012), to Arch (2017), currently Manjaro (2019-present).
+* I own two Keychrons, a K3 and a K8. I prefer the K8, but the K3 is more portable.
+* I love the terminal.
+* My IDE is PyCharm.
+* My most used Python packages are Pandas, NumPy, SciPy.
 * I have contributed to a few open source projects:
   * the linux kernel (a very small but useful commit)
   * Xarray (think Pandas, but n-dimensional)
