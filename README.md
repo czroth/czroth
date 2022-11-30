@@ -21,7 +21,7 @@ I love teaching others about anything they are interested or motivated to learn 
 
 * If I get the chance to make you something to eat it will likely be a Neapolitan style pizza, unless it is your birthday, in which case it will be crêpes. If you get the chance to make me a meal, I will happily eat whatever you make.
 
-* I've travelled to Italy, Scotland, Germany, Czechia, Lebanon, Mexico, and Japan.
+* I've travelled to Italy, Scotland, Germany, Czechia, Lebanon, Mexico, Japan, Greece, and Croatia.
 
 ## Working Together
 
