@@ -11,7 +11,8 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 * I love learning new things, especially in the fields of physics, mathematics, and programming, but really just about anything.
 If you are passionate about it, I'd love to learn it from you.
 I love teaching others about anything they are interested or motivated to learn about.
-  * Currently, I'm taking a [CoRise](https://corise.com/) course on [Dagster.](https://dagster.io/)
+  * Currently, I'm reading [Designing Data-Intensive Applications](https://dataintensive.net/) with my Data Science and Software Engineering colleagues at Preteckt.
+  * I'm also reading [Influence](https://www.goodreads.com/book/show/28815.Influence).
 
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
