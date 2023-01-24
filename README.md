@@ -48,6 +48,7 @@ I am most productive when others depend on me and I depend on others. Everyone i
 * My most used Python packages are Pandas, NumPy, SciPy.
 * I have contributed to a few open source projects:
   * the linux kernel (a very small but useful commit)
+  * Pandas, this [bug fix](https://github.com/pandas-dev/pandas/pull/50876)
   * Xarray (think Pandas, but n-dimensional)
   * django-taggit
 
