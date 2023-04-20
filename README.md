@@ -12,7 +12,7 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 If you are passionate about it, I'd love to learn it from you.
 I love teaching others about anything they are interested or motivated to learn about.
   * This year my PD goals include acquiring more skill and proficiency in managing.
-  * I'm also reading [Influence](https://www.goodreads.com/book/show/28815.Influence).
+  * I'm currently reading [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain).
 
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
