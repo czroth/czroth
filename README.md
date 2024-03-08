@@ -1,4 +1,4 @@
-### Hi, I'm Chris Roth, Head of Data Science at [Preteckt](https://www.preteckt.com).
+### Hi, I'm Chris Roth, Principal Data Scientist at [Preteckt](https://www.preteckt.com).
 
 We use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. Our work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. The Data Science team collaborates with Preteckt's Software Engineering and Diesel Technician teams to provide Vehicle Prognostics as a Service.
 
@@ -11,8 +11,8 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 * I love learning new things, especially in the fields of physics, mathematics, and programming, but really just about anything.
 If you are passionate about it, I'd love to learn it from you.
 I love teaching others about anything they are interested or motivated to learn about.
-  * I am currently reading The Staff Engineer's Path by Tanya Reilly.
-  * I recently finished Uplimit's [advanced DBT course](https://uplimit.com/course/advanced-dbt/v2).
+  * I'm currently reading [*The Staff Engineer's Path*](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly.
+  * I recently finished Uplimit's [advanced DBT course](https://uplimit.com/course/advanced-dbt/v2). My next course will be [Forecasting with Machine Learning](https://uplimit.com/course/forecasting-with-machine-learning/v2/dashboard).
 
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
