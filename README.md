@@ -39,6 +39,8 @@ I am most productive when others depend on me and I depend on others. Everyone i
 
 * I view most work as **in progess,** meaning things are still getting better. Things need not be perfect before they are seen by teammates. I value feedback as helpful as it quickens the quality process. If I offer you feedback, it comes from that desire.
 
+* Lastly, work as _what you get paid for_ is too narrow a view of work. Work is a reflection of who we are and our impact on the world. Compensation is a byproduct, and much valuable work is unpaid.
+
 ## For Fellow Nerds
 
 * My linux journey has been Ubuntu (2012), to Arch (2017), currently Manjaro (2019-present).
