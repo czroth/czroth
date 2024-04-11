@@ -45,7 +45,6 @@ I am most productive when others depend on me and I depend on others. Everyone i
 * I own two Keychrons, a K3 and a K8. I prefer the K8, but the K3 is more portable.
 * I love the terminal.
 * My IDE is PyCharm.
-* My most used Python packages are Pandas, NumPy, SciPy.
 * I have contributed to a few open source projects:
   * the linux kernel (a very small but useful commit)
   * Pandas, this [bug fix](https://github.com/pandas-dev/pandas/pull/50876)
