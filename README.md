@@ -48,11 +48,11 @@ I am most productive when others depend on me and I depend on others. Everyone i
 * I love the terminal.
 * My IDE is PyCharm.
 * I have contributed to a few open source projects:
-  * the linux kernel (a very small but useful commit)
+  * the linux kernel (an ethernet driver [addition](https://marc.info/?l=linux-kernel&w=2&r=1&s=chris.roth%40usask.ca&q=b))
   * Pandas, this [bug fix](https://github.com/pandas-dev/pandas/pull/50876)
   * Dagster, a documentation [PR](https://github.com/dagster-io/dagster/pull/20815) on k8s deploy configuration suggestions
-  * Xarray (think Pandas, but n-dimensional)
-  * django-taggit
+  * Xarray (think Pandas, but n-dimensional) [PR](https://github.com/pydata/xarray/pull/1869)
+  * django-taggit, this [bug fix](https://github.com/jazzband/django-taggit/pull/712)
 
 ## Further Reading
 
