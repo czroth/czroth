@@ -50,7 +50,7 @@ I am most productive when others depend on me and I depend on others. Everyone i
 * I have contributed to a few open source projects:
   * the linux kernel (a very small but useful commit)
   * Pandas, this [bug fix](https://github.com/pandas-dev/pandas/pull/50876)
-  * Dagster, a documentation [PR](https://github.com/dagster-io/dagster/pull/20815) that is waiting for a review.
+  * Dagster, a documentation [PR](https://github.com/dagster-io/dagster/pull/20815) on k8s deploy configuration suggestions
   * Xarray (think Pandas, but n-dimensional)
   * django-taggit
 
