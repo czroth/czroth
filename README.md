@@ -11,8 +11,10 @@ This page is intended to help others get an [idea](#about-me) of who I am, espec
 * I love learning new things, especially in the fields of physics, mathematics, and programming, but really just about anything.
 If you are passionate about it, I'd love to learn it from you.
   * I am actively involved on [Uplimit](https://uplimit.com/)'s online educational platform and am excited to be building a course on Data Orchestration that I will be teaching in Fall. My last course as a student was the [advanced DBT course](https://uplimit.com/course/advanced-dbt/v2). My next course will be [Product Thinking for Non-Product Managers](https://uplimit.com/course/product-thinking/v2/dashboard).
-  * 2024's best book (so far): [*The Staff Engineer's Path*](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly. I recommend reading it as you are developing along your IC track as it will help you to think about what is down the road of your career.
-  * I'm currently reading [*The Manager's Path*](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
+  * Current group book study: [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  * 2024's best books:
+    * [*The Staff Engineer's Path*](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly. I recommend reading it as you are developing along your IC track as it will help you to think about what is down the road of your career.
+    * [*The Manager's Path*](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
   
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
