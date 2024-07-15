@@ -26,6 +26,8 @@ If you are passionate about it, I'd love to learn it from you.
 
 * I've travelled to Italy, Scotland, Germany, Czechia, Lebanon, Mexico, Japan, Greece, Croatia, and Portugal.
 
+* I'm learning Italian with [Rocket Languages](https://app.rocketlanguages.com/). I'm currently progressing from A1 to A2.
+
 ## Working Together
 
 Here are a few things to know about me to help us get started working together.
