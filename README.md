@@ -15,6 +15,7 @@ If you are passionate about it, I'd love to learn it from you.
   * 2024's best books:
     * [*The Staff Engineer's Path*](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly. I recommend reading it as you are developing along your IC track as it will help you to think about what is down the road of your career.
     * [*The Manager's Path*](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
+    * [*The Bullet Journal Method*](https://bulletjournal.com/pages/book) by Ryder Carroll.
   
 * I married my high school sweetheart. Twenty-plus years later we are still sweethearts. We have five children that fill our lives with fun and activity.
 
