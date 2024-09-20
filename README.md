@@ -21,7 +21,7 @@ If you are passionate about it, I'd love to learn it from you.
 
 * I enjoy meeting new people and connecting with those I know. Tell me about what you love about work. Tell me about what's important to you outside of work.
 
-* I grew up and still live in a small town (~1200 people). Two of my three closest friends have chickens. Ask me anything about small town life if you are curious.
+* I grew up and still live in a small town (~1200 people). All three of my closest friends have chickens (one as a business, the other two as a hobby). Ask me anything about small town life if you are curious.
 
 * If I get the chance to make you something to eat it will likely be a Neapolitan style pizza, unless it is your birthday, in which case it will be crêpes. If you get the chance to make me a meal, I will happily eat whatever you make.
 
