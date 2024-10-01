@@ -1,6 +1,6 @@
-### Hi, I'm Chris Roth, Principal Data Scientist at [Preteckt](https://www.preteckt.com).
+### Hi, I'm Chris Roth, Engineering Manager at [ZF-SCALAR](https://zf-scalar.com/).
 
-We use machine learning (ML) to predict maintenance issues in vehicles before they cause downtime. Our work includes data modelling and analysis to categorize anomalous conditions in vehicular systems. The Data Science team collaborates with Preteckt's Software Engineering and Diesel Technician teams to provide Vehicle Prognostics as a Service.
+My work includes leading teams that build tools for data modelling and analysis to categorize anomalous conditions in vehicular systems, including engines, aftertreatment systems, and brakes.
 
 My background in data science comes from working on [OSIRIS](https://research-groups.usask.ca/osiris), a Canadian satellite instrument in operation aboard the Swedish Odin satellite. Launched in 2001, OSIRIS has collected two decades of high resolution spectral data of the atmosphere to provide information on the extent to which humans are changing the atmospheric environment, specifically through the study of ozone. As Senior Analyst and Operations Engineer, I was responsible for the data processing pipeline for the instrument. My work has been published in peer-reviewed journals and has been used to inform global policy decisions on climate.
 
